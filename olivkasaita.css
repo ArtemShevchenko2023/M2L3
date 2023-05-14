@@ -1,0 +1,16 @@
+body {
+    font-family: cursive; /* Семейство шрифтов */
+    font-size: 17px; /* Размер основного шрифта в <p></p>  */
+    background-color: #5988FF; /* Цвет фона веб-страницы */
+    color: #FFFFFF; /* Цвет основного текста */ 
+}
+h1 {
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 27px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif; /* Семейство шрифтов */
+}
+h2 {
+    color: #FD98FB; /* Цвет заголовка */
+    font-size: 23px; /* Размер шрифта в пунктах */
+    font-family: Arial, Helvetica, sans-serif; /* Семейство шрифтов */
+}
